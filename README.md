@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block">
     <br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">   
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
